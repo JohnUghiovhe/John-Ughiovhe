@@ -7,7 +7,7 @@ I'm a Software Engineer, Customer Service professional who currently works as a 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Backend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
+- 💡 Fun fact: I'm currently studying Backend Engineering at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2025.
 - 🌱 I’m currently learning JavaScript, Expressjs, Nodejs and Typescript.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
